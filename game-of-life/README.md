@@ -4,6 +4,8 @@ Dette er en gjennomgan av workshop https://github.com/kimsb/game-of-life
 
 ## Resultat:
 
+![Resultat](https://github.com/abydal/algpip/raw/master/game-of-life/glider_gun.PNG)
+
 ## Annen moro:
 
 - [Click-&-Play-variant](https://bitstorm.org/gameoflife/) hvor du kan trykke på hvilke celler som skal være levende
